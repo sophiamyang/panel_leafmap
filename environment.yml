@@ -1,0 +1,10 @@
+name: panel_leafmap
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - leafmap
+  - panel
+  - notebook
+  - python=3.8
+prefix: /opt/anaconda3/envs/panel_leafmap
