@@ -1,7 +1,7 @@
 # Leafmap Panel App
 
 This is a very basic example using Leapmap in a Panel App. 
-![App](assets/basic_example.gif)
+![App](asset/basic_example.gif)
 
 
 ### Basic
